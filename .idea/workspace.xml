@@ -35,32 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ecosphere.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engine/classes/ecosphere.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
-              <folding>
-                <marker date="1531589851563" expanded="true" signature="609:622" placeholder="SELECT * FRO..." />
-                <marker date="1531589851563" expanded="true" signature="609:671" placeholder="SELECT * FRO..bolygo_faj_celszam..." />
-                <marker date="1531589851563" expanded="true" signature="1017:1086" placeholder="UPDATE bolyg..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="planets.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/engine/classes/planets.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="98" column="123" selection-start-line="98" selection-start-column="123" selection-end-line="98" selection-end-column="123" />
-              <folding>
-                <marker date="1531592603405" expanded="true" signature="788:921" placeholder="select * fro..bolygok..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="serverfunctions.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/engine/classes/serverfunctions.class.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -409,11 +383,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="attekintes.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="attekintes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/attekintes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.96666664">
-              <caret line="507" column="115" selection-start-line="507" selection-start-column="115" selection-end-line="507" selection-end-column="115" />
+            <state vertical-scroll-proportion="-26.461538">
+              <caret line="498" column="1" selection-start-line="498" selection-start-column="1" selection-end-line="498" selection-end-column="1" />
               <folding>
                 <marker date="1356321860000" expanded="true" signature="644:850" placeholder="select count..userek..." />
                 <marker date="1356321860000" expanded="true" signature="1134:1422" placeholder="select count..userek..." />
@@ -448,6 +422,28 @@
                 <marker date="1356321860000" expanded="true" signature="17377:18209" placeholder="select honna..cron_tabla_eroforras_transzfer..." />
                 <marker date="1356321860000" expanded="true" signature="18222:19062" placeholder="select hova_..cron_tabla_eroforras_transzfer..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="csatajelentes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/csatajelentes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1356321860000" expanded="true" signature="222:290" placeholder="select count..csata_user..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.42988506">
+              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -488,7 +484,6 @@
         <option value="$PROJECT_DIR$/ajax_autocomplete_flottak.php" />
         <option value="$PROJECT_DIR$/terkep_adatok.php" />
         <option value="$PROJECT_DIR$/top/index.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/../ikariam/install/install.php" />
         <option value="$PROJECT_DIR$/engine/classes/serverfunctions.class.php" />
         <option value="$PROJECT_DIR$/engine/classes/otherfunctions.class.php" />
@@ -510,6 +505,7 @@
         <option value="$PROJECT_DIR$/engine/classes/stockexchange.class.php" />
         <option value="$PROJECT_DIR$/engine/classes/resources.class.php" />
         <option value="$PROJECT_DIR$/csatlak.php" />
+        <option value="$PROJECT_DIR$/config.php" />
       </list>
     </option>
   </component>
@@ -561,6 +557,16 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="zandagort másolata" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zandagort másolata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zandagort másolata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -726,251 +732,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/csatlak.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="848" column="0" selection-start-line="848" selection-start-column="0" selection-end-line="848" selection-end-column="0" />
-          <folding>
-            <marker date="1531594788926" expanded="true" signature="6406:6567" placeholder="select coale..userek..." />
-            <marker date="1531594788926" expanded="true" signature="12516:12692" placeholder="select u.id ..userek..." />
-            <marker date="1531594788926" expanded="true" signature="13015:13191" placeholder="select u.id ..userek..." />
-            <marker date="1531594788926" expanded="true" signature="13499:13533" placeholder="select nyelv..userek..." />
-            <marker date="1531594788926" expanded="true" signature="13665:14014" placeholder="insert into levelek..." />
-            <marker date="1531594788926" expanded="true" signature="14077:14113" placeholder="select last_..levelek..." />
-            <marker date="1531594788926" expanded="true" signature="14522:14556" placeholder="select nyelv..userek..." />
-            <marker date="1531594788926" expanded="true" signature="14688:15019" placeholder="insert into levelek..." />
-            <marker date="1531594788926" expanded="true" signature="15082:15118" placeholder="select last_..levelek..." />
-            <marker date="1531594788926" expanded="true" signature="15519:15553" placeholder="select nyelv..userek..." />
-            <marker date="1531594788926" expanded="true" signature="15644:15975" placeholder="insert into levelek..." />
-            <marker date="1531594788926" expanded="true" signature="15997:16033" placeholder="select last_..levelek..." />
-            <marker date="1531594788926" expanded="true" signature="19279:19344" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="20380:20421" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="23178:23240" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="23432:23470" placeholder="select nev,n..userek..." />
-            <marker date="1531594788926" expanded="true" signature="24220:24290" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="24701:24775" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="24912:24970" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="25101:25229" placeholder="insert into flottak..." />
-            <marker date="1531594788926" expanded="true" signature="25256:25292" placeholder="select last_..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="25310:25390" placeholder="insert into flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="25446:25548" placeholder="insert into flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="26835:27022" placeholder="insert into penz_transzfer_log..." />
-            <marker date="1531594788926" expanded="true" signature="27385:27727" placeholder="insert into transzfer_log..." />
-            <marker date="1531594788926" expanded="true" signature="28186:28555" placeholder="insert into transzfer_log..." />
-            <marker date="1531594788926" expanded="true" signature="28913:29276" placeholder="insert into bolygo_transzfer_log..." />
-            <marker date="1531594788926" expanded="true" signature="29573:29784" placeholder="insert into hajo_transzfer_log..." />
-            <marker date="1531594788926" expanded="true" signature="30062:30105" placeholder="insert into hist_idopontok..." />
-            <marker date="1531594788926" expanded="true" signature="30168:30211" placeholder="select last_..hist_idopontok..." />
-            <marker date="1531594788926" expanded="true" signature="30536:30906" placeholder="insert into hist_termelesek..." />
-            <marker date="1531594788926" expanded="true" signature="30592:30906" placeholder="select ${$id..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="30987:31201" placeholder="insert into hist_bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="31049:31201" placeholder="select ${$id..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="31283:31547" placeholder="insert into hist_eroforrasok..." />
-            <marker date="1531594788926" expanded="true" signature="31341:31547" placeholder="select ${$id..bolygo_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="31625:31944" placeholder="insert into hist_flottak..." />
-            <marker date="1531594788926" expanded="true" signature="31698:31944" placeholder="select ${$id..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="32021:32269" placeholder="insert into hist_gyarak..." />
-            <marker date="1531594788926" expanded="true" signature="32074:32269" placeholder="select ${$id..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="32345:32621" placeholder="insert into hist_hajok..." />
-            <marker date="1531594788926" expanded="true" signature="32392:32589" placeholder="select ${$id..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="32703:32830" placeholder="insert into hist_szovetsegek..." />
-            <marker date="1531594788926" expanded="true" signature="32758:32830" placeholder="select ${$id..szovetsegek..." />
-            <marker date="1531594788926" expanded="true" signature="32907:33154" placeholder="insert into hist_userek..." />
-            <marker date="1531594788926" expanded="true" signature="33017:33154" placeholder="select ${$id..userek..." />
-            <marker date="1531594788926" expanded="true" signature="33242:33466" placeholder="select id,ka..hist_userek..." />
-            <marker date="1531594788926" expanded="true" signature="33579:33652" placeholder="update hist_..." />
-            <marker date="1531594788926" expanded="true" signature="33804:34123" placeholder="insert into hist_diplomacia_statuszok..." />
-            <marker date="1531594788926" expanded="true" signature="33955:34123" placeholder="select ${$id..diplomacia_statuszok..." />
-            <marker date="1531594788926" expanded="true" signature="34355:34416" placeholder="select min(a..tozsdei_arfolyamok..." />
-            <marker date="1531594788926" expanded="true" signature="34546:34653" placeholder="select * fro..szabadpiaci_ajanlatok..." />
-            <marker date="1531594788926" expanded="true" signature="34716:34818" placeholder="select * fro..szabadpiaci_ajanlatok..." />
-            <marker date="1531594788926" expanded="true" signature="35248:35291" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="35334:35456" placeholder="update szaba..." />
-            <marker date="1531594788926" expanded="true" signature="35498:35557" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="35756:35799" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="35842:35885" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="36026:36069" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="36111:36233" placeholder="update szaba..." />
-            <marker date="1531594788926" expanded="true" signature="36276:36335" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="36864:37013" placeholder="update szaba..." />
-            <marker date="1531594788926" expanded="true" signature="37059:37138" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="37185:37252" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="37331:37426" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="37489:37536" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="37661:37938" placeholder="insert into szabadpiaci_kotesek..." />
-            <marker date="1531594788926" expanded="true" signature="38659:38693" placeholder="select id fr..hajok..." />
-            <marker date="1531594788926" expanded="true" signature="38791:38875" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="39021:39056" placeholder="select tulaj..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="39101:39254" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="39283:39336" placeholder="update user_..." />
-            <marker date="1531594788926" expanded="true" signature="39441:39478" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="39550:39607" placeholder="select id fr..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="39712:39752" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="39775:39855" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="39913:40008" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="40077:40172" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="40213:40292" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="40346:40441" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="40463:40542" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="40568:40618" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="40645:40732" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="40796:40846" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="40870:41463" placeholder="insert into bolygo_gyar_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="40904:41463" placeholder="select bgy.b..bolygo_id..." />
-            <marker date="1531594788926" expanded="true" signature="41077:41301" placeholder="select bgy.b..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="41528:41562" placeholder="select * fro..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="41726:41869" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="42155:42203" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="42307:42337" placeholder="select * fro..userek..." />
-            <marker date="1531594788926" expanded="true" signature="42477:42518" placeholder="select alapi..szovetsegek..." />
-            <marker date="1531594788926" expanded="true" signature="42652:42696" placeholder="select count..userek..." />
-            <marker date="1531594788926" expanded="true" signature="42809:42868" placeholder="update szove..." />
-            <marker date="1531594788926" expanded="true" signature="42995:43037" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43120:43164" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43247:43294" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43377:43410" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43493:43570" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43653:43730" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="43934:44051" placeholder="select id fr..userek..." />
-            <marker date="1531594788926" expanded="true" signature="44173:44225" placeholder="update szove..." />
-            <marker date="1531594788926" expanded="true" signature="44308:44347" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="44475:44541" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="44610:44676" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="44783:44845" placeholder="select disti..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="44956:45028" placeholder="select * fro..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="45092:45217" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="45253:45323" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="45482:45536" placeholder="select count..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="45603:45638" placeholder="select tulaj..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="45718:45884" placeholder="select rfh.u..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="46027:46066" placeholder="select tulaj..userek..." />
-            <marker date="1531594788926" expanded="true" signature="46114:46224" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="46327:46362" placeholder="select id fr..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="46428:46468" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="46536:46715" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="46785:46817" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="46864:46904" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="46942:46974" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47019:47058" placeholder="select id fr..cset_szobak..." />
-            <marker date="1531594788926" expanded="true" signature="47124:47172" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47199:47251" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47280:47316" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47368:47411" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47438:47484" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="47511:47539" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="48419:48549" placeholder="insert into ${$database_mmog_nemlog}.user_szovi_valtasok..." />
-            <marker date="1531594788926" expanded="true" signature="48599:48638" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="48705:48801" placeholder="update ugyno..." />
-            <marker date="1531594788926" expanded="true" signature="49096:49126" placeholder="select * fro..userek..." />
-            <marker date="1531594788926" expanded="true" signature="49274:49344" placeholder="select count..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="49434:49504" placeholder="select count..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="49704:49812" placeholder="select regio..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="49833:50056" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="50147:50240" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="50332:50425" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="50530:50600" placeholder="select count..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="50773:50881" placeholder="select regio..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="50902:51125" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="51207:51320" placeholder="update szaba..." />
-            <marker date="1531594788926" expanded="true" signature="51442:51508" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="51538:51602" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="51679:51984" placeholder="select bgy.g..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="52058:52135" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="52256:52330" placeholder="select id fr..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="52429:52543" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="52642:52783" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="52949:53001" placeholder="select round..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="53075:53135" placeholder="select round..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="53167:53277" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="53448:53493" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="53570:53630" placeholder="select round..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="53930:54017" placeholder="insert into terulet_valtozasok..." />
-            <marker date="1531594788926" expanded="true" signature="54076:54136" placeholder="select round..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="54191:54287" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="54341:54394" placeholder="select valah..userek..." />
-            <marker date="1531594788926" expanded="true" signature="54953:55038" placeholder="select id,te..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="56239:56322" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="56355:56527" placeholder="update usere..." />
-            <marker date="1531594788926" expanded="true" signature="56640:56670" placeholder="select * fro..gyarak..." />
-            <marker date="1531594788926" expanded="true" signature="56773:56810" placeholder="select * fro..eroforrasok..." />
-            <marker date="1531594788926" expanded="true" signature="57586:57780" placeholder="select coale..gyar_kutatasi_szint..." />
-            <marker date="1531594788926" expanded="true" signature="58088:58119" placeholder="select * fro..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="58269:58352" placeholder="select gyt.t..gyartipusok..." />
-            <marker date="1531594788926" expanded="true" signature="59268:59337" placeholder="select * fro..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="59488:59600" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="59674:59757" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="59894:60003" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="60064:60186" placeholder="insert into bolygo_gyar_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="60098:60186" placeholder="select ${$bo..gyar_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="60439:60509" placeholder="select db fr..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="60680:60838" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="60912:61015" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="61084:61178" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="61297:61364" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="61433:61510" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="61771:61841" placeholder="select db fr..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="62012:62170" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="62244:62347" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="62416:62510" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="62652:62719" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="62788:62865" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="62960:63184" placeholder="insert into cron_tabla..." />
-            <marker date="1531594788926" expanded="true" signature="63521:63591" placeholder="select db fr..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="63770:63928" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="64008:64111" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="64186:64280" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="64425:64492" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="64567:64644" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="64749:64818" placeholder="select * fro..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="64975:65087" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="65165:65248" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="65391:65503" placeholder="insert into bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="65565:65690" placeholder="insert into bolygo_gyar_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="65599:65690" placeholder="select ${$bo..gyar_eroforras..." />
-            <marker date="1531594788926" expanded="true" signature="65938:66092" placeholder="select coale..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="66168:66361" placeholder="select coale..cron_tabla..." />
-            <marker date="1531594788926" expanded="true" signature="66431:66628" placeholder="select coale..cron_tabla..." />
-            <marker date="1531594788926" expanded="true" signature="66698:66743" placeholder="select terra..bolygok..." />
-            <marker date="1531594788926" expanded="true" signature="66917:67112" placeholder="update bolyg..." />
-            <marker date="1531594788926" expanded="true" signature="67251:67313" placeholder="select * fro..bolygo_gyar..." />
-            <marker date="1531594788926" expanded="true" signature="67411:67485" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="67522:67571" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="68689:68863" placeholder="select f.fej..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="68906:68960" placeholder="select count..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="69237:69297" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="70339:70656" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="71425:71536" placeholder="select sum(f..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="71581:71692" placeholder="select sum(f..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="71738:71863" placeholder="select sum(f..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="72082:72253" placeholder="select sum(f..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="72532:72720" placeholder="select h.seb..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="73021:73160" placeholder="select min(i..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="73445:73616" placeholder="select sum(f..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="73956:74138" placeholder="select h.seb..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="74912:75082" placeholder="select h.seb..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="75357:75496" placeholder="select min(i..flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="75651:75682" placeholder="select * fro..flottak..." />
-            <marker date="1531594788926" expanded="true" signature="75849:75909" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="75978:76038" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="76115:76177" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="76199:76351" placeholder="update resz_..." />
-            <marker date="1531594788926" expanded="true" signature="76785:76847" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="76997:77066" placeholder="select count..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="77132:77201" placeholder="select user_..resz_flotta_hajo..." />
-            <marker date="1531594788926" expanded="true" signature="77263:77302" placeholder="select tulaj..userek..." />
-            <marker date="1531594788926" expanded="true" signature="77336:77423" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="77448:77493" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="77561:77606" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="77673:77713" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="77780:77809" placeholder="delete from ..." />
-            <marker date="1531594788926" expanded="true" signature="77876:78076" placeholder="update flott..." />
-            <marker date="1531594788926" expanded="true" signature="78359:78531" placeholder="select badge..user_badge..." />
-            <marker date="1531594788926" expanded="true" signature="78954:79019" placeholder="select * fro..user_badge..." />
-            <marker date="1531594788926" expanded="true" signature="79075:79194" placeholder="select count..user_badge..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/attekintes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2173,13 +1934,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.423077">
           <caret line="700" column="20" selection-start-line="700" selection-start-column="20" selection-end-line="700" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0551724">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2704,8 +2459,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/attekintes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.96666664">
-          <caret line="507" column="115" selection-start-line="507" selection-start-column="115" selection-end-line="507" selection-end-column="115" />
+        <state vertical-scroll-proportion="-26.461538">
+          <caret line="498" column="1" selection-start-line="498" selection-start-column="1" selection-end-line="498" selection-end-column="1" />
           <folding>
             <marker date="1356321860000" expanded="true" signature="644:850" placeholder="select count..userek..." />
             <marker date="1356321860000" expanded="true" signature="1134:1422" placeholder="select count..userek..." />
@@ -2740,6 +2495,24 @@
             <marker date="1356321860000" expanded="true" signature="17377:18209" placeholder="select honna..cron_tabla_eroforras_transzfer..." />
             <marker date="1356321860000" expanded="true" signature="18222:19062" placeholder="select hova_..cron_tabla_eroforras_transzfer..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csatajelentes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1356321860000" expanded="true" signature="222:290" placeholder="select count..csata_user..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42988506">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
