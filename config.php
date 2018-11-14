@@ -57,17 +57,6 @@ ez régen attól függött, hogy sx.zandagort.hu vagy sx.zandagort.com címen é
 a jövőben attól függ, amitől akarod
 */
 
-//admin email cím, ahonnan az automata emailek kimennek, és ami par helyen megjelenik, mint elérhetőség
-$zanda_admin_email['hu']='info@example.com';
-$zanda_admin_email['en']='info@example.com';
-//erről az email címről akárhányszor lehet regisztrálni (szemben a többivel, ahol egy emailről csak egyszer)
-$zanda_test_user_email='test@example.com';
-
-//az url, ahol a www könyvtár kívülről, webszerveren keresztül elérhető, vagyis ahonnan játszani lehet
-$zanda_game_url['hu']='http://example.com/';
-$zanda_game_url['en']='http://example.com/';
-
-
 /*
 honlap, facebook, tutorial... url-je, ezek itt-ott be vannak linkelve
 a csataszim, okoszim és még pár dologról feltételezett, hogy a zanda_homepage_url/... url-en érhető el, vagyis így kell kialakítani a honlapot (lásd pl index_belso.php HELP részében)
