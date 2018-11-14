@@ -66,10 +66,7 @@ hosszútávon viszont mindenki, aki indít szervert, saját honlapot, wikit, tut
 egyrészt mert amik a zandagort.hu-n vannak, azok nem fognak változni, vagyis el fognak térni, amint fejleszt bárki bármit (pl űrhajóparaméterek vs csataszimulátor)
 másrészt ha valamelyik független zandaverzió befut, nem kéne a több millió usert mind a szerveremre zúdítani :-)
 
-ehhez kapcsolódik, hogy a
-- tutorial_szovegek.php
-- tut_levelek_hu.php
-- tut_levelek_en.php
+
 fájlokban jópár hivatkozás történik a *mostani* Enciklopaedia Zandagorticára (wiki), nagyobb részt képek, kisebb részt szócikkek
 ezeket nem változósítottam, mert ha valaki elkezdi átalakítani a Zandát, úgyis a teljes tutorial szövegeket át kell írnia, nem csak az url-t
 */
